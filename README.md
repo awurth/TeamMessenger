@@ -17,12 +17,12 @@
 
 ## Installation
 ### 1. Clone repository
-```bash
-$ git clone https://github.com/TPCISIIE/TeamMessenger.git
+``` bash
+$ git clone https://github.com/awurth/TeamMessenger.git
 ```
 
 ### 2. Install dependencies
-```bash
+``` bash
 $ cd TeamMessenger
 $ npm install
 $ bower install
@@ -44,3 +44,7 @@ Run the project with Electron (do not forget to build the project before)
 ``` bash
 $ npm start
 ```
+
+## Credits :
+- Xavier CHOPIN
+- Alexis WURTH
